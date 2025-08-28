@@ -1,63 +1,62 @@
-🩺 Disease Prediction
-📌 Overview
+Got it 👍 I’ll make all **side headings**, your **name**, and **email** bold. Here’s the updated `README.md` for your repo:
 
-This project is a machine learning model that predicts diseases (heart disease in this case) using patient health data.
-It is implemented in Python with Google Colab/Jupyter Notebook and applies ML algorithms for classification and prediction.
+---
 
-I created this project for learning purposes by following and getting inspired from Ihsan Mishra’s work.
+# 🩺 **Disease Prediction**
 
-🚀 Features
+## 📌 **Overview**
 
-Data preprocessing and cleaning
+This project is a **machine learning model** that predicts diseases (heart disease in this case) using patient health data.
+It is implemented in **Python** with **Google Colab/Jupyter Notebook** and applies ML algorithms for classification and prediction.
 
-Training ML models for disease prediction
+I created this project for learning purposes by following and getting inspired from **Ihsan Mishra’s work**.
 
-Model evaluation (accuracy, confusion matrix, etc.)
+## 🚀 **Features**
 
-Easy-to-use notebook with CSV dataset
+* **Data preprocessing** and cleaning
+* **Training ML models** for disease prediction
+* **Model evaluation** (accuracy, confusion matrix, etc.)
+* Easy-to-use **notebook with CSV dataset**
 
-🛠️ Technologies Used
+## 🛠️ **Technologies Used**
 
-Python 3.x
+* **Python 3.x**
+* **NumPy, Pandas** → Data handling
+* **Scikit-learn** → Machine learning algorithms
+* **Matplotlib, Seaborn** → Visualization
 
-NumPy, Pandas → Data handling
+## 📂 **Project Structure**
 
-Scikit-learn → Machine learning algorithms
-
-Matplotlib, Seaborn → Visualization
-
-📂 Project Structure
+```
 Disease-Prediction/  
 │── Disease_Prediction_System.ipynb   # Main notebook  
 │── heart_dataset.csv                 # Dataset  
 │── Heart_user_template.csv           # Sample input  
 │── README.md                         # Documentation  
+```
 
-▶️ Usage
+## ▶️ **Usage**
 
-Open Disease_Prediction_System.ipynb in Google Colab or Jupyter Notebook
+1. Open **Disease\_Prediction\_System.ipynb** in **Google Colab** or **Jupyter Notebook**
+2. Run the notebook step by step
+3. Train the model with the dataset
+4. Test predictions using **Heart\_user\_template.csv**
 
-Run the notebook step by step
+## 🔮 **Future Improvements**
 
-Train the model with the dataset
+* Add more datasets for different diseases
+* Build a **web app using Streamlit/Flask**
+* Try **deep learning models** for higher accuracy
+* Deploy to **cloud (Heroku/AWS/GCP)**
 
-Test predictions using Heart_user_template.csv
+## 👩‍💻 **Author**
 
-🔮 Future Improvements
+**Ayishath Nafiya B**
+📧 Email: **[ayshanafiya1616@gmail.com](mailto:ayshanafiya1616@gmail.com)**
 
-Add more datasets for different diseases
+🙏 **Acknowledgment**
+Inspired and learned from [**Ihsan Mishra**](https://github.com/ihrm-ishan)
 
-Build a web app using Streamlit/Flask
+---
 
-Try deep learning models for higher accuracy
-
-Deploy to cloud (Heroku/AWS/GCP)
-
-👩‍💻 Author
-
-Ayishath Nafiya B
-📧 Email: ayshanafiya1616@gmail.com
-
-🙏 Acknowledgment
-Inspired and learned from Ihsan Mishra
-Ishan Mishra 💼 LinkedIn - https://www.linkedin.com/in/ihrm-ishan/ 📧 Email: ihrm.aiml@gmail.com
+Do you also want me to add a **screenshot** of your project output (like accuracy or graphs) inside the README? It makes the GitHub page look more attractive.
