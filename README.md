@@ -1,7 +1,3 @@
-Got it 👍 I’ll make all **side headings**, your **name**, and **email** bold. Here’s the updated `README.md` for your repo:
-
----
-
 # 🩺 **Disease Prediction**
 
 ## 📌 **Overview**
@@ -56,7 +52,3 @@ Disease-Prediction/
 
 🙏 **Acknowledgment**
 Inspired and learned from [**Ihsan Mishra**](https://github.com/ihrm-ishan)
-
----
-
-Do you also want me to add a **screenshot** of your project output (like accuracy or graphs) inside the README? It makes the GitHub page look more attractive.
