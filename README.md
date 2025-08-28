@@ -51,4 +51,4 @@ Disease-Prediction/
 📧 Email: **[ayshanafiya1616@gmail.com](mailto:ayshanafiya1616@gmail.com)**
 
 🙏 **Acknowledgment**
-Inspired and learned from [**Ihsan Mishra**](https://github.com/ihrm-ishan)
+Inspired and learned from [**Ihsan Mishra**](https://www.linkedin.com/in/ihrm-ishan/)
